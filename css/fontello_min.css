@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fontello';
-  src: url('https://github.com/crypt0nyt3/Fonts/blob/master/font/fontello.eot');
-  src: url('https://github.com/crypt0nyt3/Fonts/blob/master/font/fontello.eot?#iefix') format('embedded-opentype'),
-       url('https://github.com/crypt0nyt3/Fonts/blob/master/font/fontello.woff') format('woff'),
-       url('https://github.com/crypt0nyt3/Fonts/blob/master/font/fontello.ttf') format('truetype'),
-       url('https://github.com/crypt0nyt3/Fonts/blob/master/font/fontello.svg?#fontello') format('svg');
+  src: url('https://raw.githubusercontent.com/crypt0nyt3/Fonts/master/font/fontello.eot');
+  src: url('https://raw.githubusercontent.com/crypt0nyt3/Fonts/master/font/fontello.eot?#iefix') format('embedded-opentype'),
+       url('https://raw.githubusercontent.com/crypt0nyt3/Fonts/master/font/fontello.woff') format('woff'),
+       url('https://raw.githubusercontent.com/crypt0nyt3/Fonts/master/font/fontello.ttf') format('truetype'),
+       url('https://raw.githubusercontent.com/crypt0nyt3/Fonts/master/font/fontello.svg?#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
